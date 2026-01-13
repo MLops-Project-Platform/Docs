@@ -1,0 +1,18 @@
+{
+  "id": "deployment/production-setup",
+  "title": "Production Setup",
+  "description": "Complete production-ready deployment of the MLOps Platform.",
+  "source": "@site/docs/deployment/production-setup.md",
+  "sourceDirName": "deployment",
+  "slug": "/deployment/production-setup",
+  "permalink": "/docs/deployment/production-setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/deployment/production-setup.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/docs-68d": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-ec3": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs-bb2": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/architecture/components-123": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-architecture-componentsb-47-28d"
+  },
+  "/docs/architecture/data-flow-d38": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-architecture-data-flow-9-ba-3c1"
+  },
+  "/docs/architecture/overview-685": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-architecture-overview-0-b-1-a4c"
+  },
+  "/docs/deployment/docker-bc6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-deployment-dockerff-8-1f0"
+  },
+  "/docs/deployment/kubernetes-3bf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-deployment-kubernetes-04-d-e2c"
+  },
+  "/docs/deployment/production-setup-e5f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-deployment-production-setupf-75-73c"
+  },
+  "/docs/development/contributing-582": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-development-contributing-946-4f0"
+  },
+  "/docs/development/local-setup-cba": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-development-local-setupd-48-fd3"
+  },
+  "/docs/getting-started/overview-3b4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-overview-7-a-9-af0"
+  },
+  "/docs/getting-started/quick-start-09c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-quick-start-588-94b"
+  },
+  "/docs/repositories/mlops-helm-charts-bdc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-repositories-mlops-helm-charts-5-d-4-81e"
+  },
+  "/docs/repositories/mlops-platform-3c7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-repositories-mlops-platform-086-291"
+  },
+  "/docs/repositories/mlops-research-template-673": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-repositories-mlops-research-templateee-6-484"
+  },
+  "/docs/repositories/overview-16f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-repositories-overview-021-a33"
+  },
+  "/docs/researcher-guide/best-practices-4af": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-researcher-guide-best-practices-519-5e5"
+  },
+  "/docs/researcher-guide/overview-93d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-researcher-guide-overview-895-231"
+  },
+  "/docs/researcher-guide/setup-4e4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-researcher-guide-setup-3-e-0-41f"
+  },
+  "/docs/researcher-guide/tracking-experiments-d43": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-researcher-guide-tracking-experimentse-07-cc3"
+  },
+  "/docs/researcher-guide/training-e0d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-researcher-guide-training-154-138"
+  },
+  "/docs/tools/docker-1b7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tools-docker-337-045"
+  },
+  "/docs/tools/kubernetes-824": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tools-kubernetes-994-bbc"
+  },
+  "/docs/tools/minio-c80": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tools-minioe-72-7c7"
+  },
+  "/docs/tools/mlflow-a7c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tools-mlflow-973-661"
+  },
+  "/docs/tools/overview-efb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tools-overviewab-1-66e"
+  },
+  "/docs/tools/postgres-e44": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tools-postgresd-1-e-1b4"
+  },
+  "/-2e1": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---a-74-9d6"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

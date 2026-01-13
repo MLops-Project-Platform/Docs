@@ -1,0 +1,18 @@
+{
+  "id": "repositories/mlops-research-template",
+  "title": "mlops-research-template",
+  "description": "Repository: MLops-Project-Platform/mlops-research-template",
+  "source": "@site/docs/repositories/mlops-research-template.md",
+  "sourceDirName": "repositories",
+  "slug": "/repositories/mlops-research-template",
+  "permalink": "/docs/repositories/mlops-research-template",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/repositories/mlops-research-template.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  }
+}

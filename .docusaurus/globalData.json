@@ -1,0 +1,134 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "getting-started/overview",
+          "docs": [
+            {
+              "id": "architecture/components",
+              "path": "/docs/architecture/components"
+            },
+            {
+              "id": "architecture/data-flow",
+              "path": "/docs/architecture/data-flow"
+            },
+            {
+              "id": "architecture/overview",
+              "path": "/docs/architecture/overview"
+            },
+            {
+              "id": "deployment/docker",
+              "path": "/docs/deployment/docker"
+            },
+            {
+              "id": "deployment/kubernetes",
+              "path": "/docs/deployment/kubernetes"
+            },
+            {
+              "id": "deployment/production-setup",
+              "path": "/docs/deployment/production-setup"
+            },
+            {
+              "id": "development/contributing",
+              "path": "/docs/development/contributing"
+            },
+            {
+              "id": "development/local-setup",
+              "path": "/docs/development/local-setup"
+            },
+            {
+              "id": "getting-started/overview",
+              "path": "/docs/getting-started/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/quick-start",
+              "path": "/docs/getting-started/quick-start",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "repositories/mlops-helm-charts",
+              "path": "/docs/repositories/mlops-helm-charts"
+            },
+            {
+              "id": "repositories/mlops-platform",
+              "path": "/docs/repositories/mlops-platform",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "repositories/mlops-research-template",
+              "path": "/docs/repositories/mlops-research-template"
+            },
+            {
+              "id": "repositories/overview",
+              "path": "/docs/repositories/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "researcher-guide/best-practices",
+              "path": "/docs/researcher-guide/best-practices"
+            },
+            {
+              "id": "researcher-guide/overview",
+              "path": "/docs/researcher-guide/overview"
+            },
+            {
+              "id": "researcher-guide/setup",
+              "path": "/docs/researcher-guide/setup"
+            },
+            {
+              "id": "researcher-guide/tracking-experiments",
+              "path": "/docs/researcher-guide/tracking-experiments"
+            },
+            {
+              "id": "researcher-guide/training",
+              "path": "/docs/researcher-guide/training"
+            },
+            {
+              "id": "tools/docker",
+              "path": "/docs/tools/docker"
+            },
+            {
+              "id": "tools/kubernetes",
+              "path": "/docs/tools/kubernetes"
+            },
+            {
+              "id": "tools/minio",
+              "path": "/docs/tools/minio"
+            },
+            {
+              "id": "tools/mlflow",
+              "path": "/docs/tools/mlflow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/overview",
+              "path": "/docs/tools/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/postgres",
+              "path": "/docs/tools/postgres"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/getting-started/overview",
+                "label": "getting-started/overview"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

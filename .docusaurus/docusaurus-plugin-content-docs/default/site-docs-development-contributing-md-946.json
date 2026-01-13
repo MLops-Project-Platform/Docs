@@ -1,0 +1,18 @@
+{
+  "id": "development/contributing",
+  "title": "Contributing",
+  "description": "How to contribute to the MLOps Platform and its documentation.",
+  "source": "@site/docs/development/contributing.md",
+  "sourceDirName": "development",
+  "slug": "/development/contributing",
+  "permalink": "/docs/development/contributing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/development/contributing.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  }
+}

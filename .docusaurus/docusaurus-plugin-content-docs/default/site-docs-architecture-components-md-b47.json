@@ -1,0 +1,18 @@
+{
+  "id": "architecture/components",
+  "title": "Component Details",
+  "description": "Component Interaction Flow",
+  "source": "@site/docs/architecture/components.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/components",
+  "permalink": "/docs/architecture/components",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/architecture/components.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  }
+}

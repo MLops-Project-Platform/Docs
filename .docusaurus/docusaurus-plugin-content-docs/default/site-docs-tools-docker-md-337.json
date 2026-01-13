@@ -1,0 +1,18 @@
+{
+  "id": "tools/docker",
+  "title": "Docker",
+  "description": "What is Docker?",
+  "source": "@site/docs/tools/docker.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/docker",
+  "permalink": "/docs/tools/docker",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/tools/docker.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  }
+}

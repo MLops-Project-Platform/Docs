@@ -1,0 +1,18 @@
+{
+  "id": "tools/minio",
+  "title": "MinIO (S3 Storage)",
+  "description": "What is MinIO?",
+  "source": "@site/docs/tools/minio.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/minio",
+  "permalink": "/docs/tools/minio",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/tools/minio.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  }
+}

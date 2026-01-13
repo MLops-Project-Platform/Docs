@@ -1,0 +1,18 @@
+{
+  "id": "architecture/data-flow",
+  "title": "Data Flow",
+  "description": "Complete Request/Response Flow",
+  "source": "@site/docs/architecture/data-flow.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/data-flow",
+  "permalink": "/docs/architecture/data-flow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/architecture/data-flow.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  }
+}

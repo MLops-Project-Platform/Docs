@@ -1,0 +1,66 @@
+<svg viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .blue { fill: #2E7D99; }
+      .gray-dark { fill: #808080; }
+      .gray-light { fill: #CCCCCC; }
+      .white { fill: white; }
+      .text-main { fill: #1a1a1a; font-size: 48px; font-weight: bold; text-anchor: middle; font-family: Arial, sans-serif; }
+      .text-label { fill: white; font-size: 14px; font-weight: bold; font-family: Arial, sans-serif; }
+      .text-band { fill: #666666; font-size: 12px; font-weight: bold; font-family: Arial, sans-serif; }
+    </style>
+  </defs>
+
+  <!-- Left circle outer (blue) -->
+  <circle cx="150" cy="150" r="100" class="white" stroke="#666" stroke-width="2"/>
+  
+  <!-- Right circle outer (blue) -->
+  <circle cx="450" cy="150" r="100" class="white" stroke="#666" stroke-width="2"/>
+
+  <!-- Left circle blue arc (Deploy) - top left -->
+  <path d="M 150 150 L 100 80 A 100 100 0 0 0 60 110 Z" class="blue"/>
+  
+  <!-- Left circle blue arc (Deploy) - bottom left -->
+  <path d="M 150 150 L 60 190 A 100 100 0 0 0 100 220 Z" class="blue"/>
+  
+  <!-- Right circle blue arc (Design) - top right -->
+  <path d="M 450 150 L 500 80 A 100 100 0 0 1 540 110 Z" class="blue"/>
+  
+  <!-- Right circle blue arc (Design) - bottom right -->
+  <path d="M 450 150 L 540 190 A 100 100 0 0 1 500 220 Z" class="blue"/>
+
+  <!-- Center gray band (top) -->
+  <path d="M 120 100 Q 150 50 180 100 L 180 120 Q 150 75 120 120 Z" class="gray-dark"/>
+  
+  <!-- Center gray band (middle) -->
+  <ellipse cx="300" cy="150" rx="60" ry="35" class="gray-dark"/>
+  
+  <!-- Center light gray band (bottom) -->
+  <path d="M 120 200 Q 150 250 180 200 L 180 180 Q 150 225 120 180 Z" class="gray-light"/>
+  
+  <!-- Center connecting band to right -->
+  <ellipse cx="330" cy="150" rx="60" ry="35" class="gray-light"/>
+  
+  <!-- Right gray continuation -->
+  <path d="M 420 100 Q 450 50 480 100 L 480 120 Q 450 75 420 120 Z" class="gray-light"/>
+  <path d="M 420 200 Q 450 250 480 200 L 480 180 Q 450 225 420 180 Z" class="gray-dark"/>
+
+  <!-- ML Text -->
+  <text x="150" y="165" class="text-main">ML</text>
+
+  <!-- Ops Text -->
+  <text x="450" y="165" class="text-main">Ops</text>
+
+  <!-- Deploy label (left) -->
+  <text x="70" y="155" class="text-label" text-anchor="middle">DEPLOY</text>
+
+  <!-- Design label (right) -->
+  <text x="530" y="155" class="text-label" text-anchor="middle">DESIGN</text>
+
+  <!-- TEST & MAINTAIN label (center top) -->
+  <text x="300" y="140" class="text-band" text-anchor="middle">TEST &amp;</text>
+  <text x="300" y="158" class="text-band" text-anchor="middle">MAINTAIN</text>
+
+  <!-- TRAIN label (center bottom) -->
+  <text x="300" y="175" class="text-band" text-anchor="middle">TRAIN</text>
+</svg>

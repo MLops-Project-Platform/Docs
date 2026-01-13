@@ -1,0 +1,27 @@
+{
+  "id": "tools/overview",
+  "title": "Tools Overview",
+  "description": "The MLOps Platform integrates several industry-standard tools and technologies to provide a complete ML infrastructure solution.",
+  "source": "@site/docs/tools/overview.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/overview",
+  "permalink": "/docs/tools/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/tools/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mlops-platform",
+    "permalink": "/docs/repositories/mlops-platform"
+  },
+  "next": {
+    "title": "MLflow",
+    "permalink": "/docs/tools/mlflow"
+  }
+}

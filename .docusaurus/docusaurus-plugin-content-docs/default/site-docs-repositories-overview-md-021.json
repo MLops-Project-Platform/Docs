@@ -1,0 +1,27 @@
+{
+  "id": "repositories/overview",
+  "title": "Repositories Overview",
+  "description": "The MLOps Platform consists of four main repositories, each serving a specific purpose in the ML lifecycle.",
+  "source": "@site/docs/repositories/overview.md",
+  "sourceDirName": "repositories",
+  "slug": "/repositories/overview",
+  "permalink": "/docs/repositories/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/repositories/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quick Start",
+    "permalink": "/docs/getting-started/quick-start"
+  },
+  "next": {
+    "title": "mlops-platform",
+    "permalink": "/docs/repositories/mlops-platform"
+  }
+}

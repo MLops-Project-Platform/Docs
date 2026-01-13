@@ -1,0 +1,18 @@
+{
+  "id": "researcher-guide/training",
+  "title": "Training Guide",
+  "description": "Learn how to write, organize, and execute training code that integrates with the MLOps Platform.",
+  "source": "@site/docs/researcher-guide/training.md",
+  "sourceDirName": "researcher-guide",
+  "slug": "/researcher-guide/training",
+  "permalink": "/docs/researcher-guide/training",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/researcher-guide/training.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  }
+}

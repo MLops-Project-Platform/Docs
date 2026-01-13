@@ -1,0 +1,18 @@
+{
+  "id": "researcher-guide/overview",
+  "title": "Researcher Guide Overview",
+  "description": "This guide is designed for data scientists and ML researchers working with the MLOps Platform. It covers everything you need to set up your environment, run experiments, and track your work.",
+  "source": "@site/docs/researcher-guide/overview.md",
+  "sourceDirName": "researcher-guide",
+  "slug": "/researcher-guide/overview",
+  "permalink": "/docs/researcher-guide/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/researcher-guide/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  }
+}

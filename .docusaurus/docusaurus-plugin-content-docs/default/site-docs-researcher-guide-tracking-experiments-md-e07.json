@@ -1,0 +1,18 @@
+{
+  "id": "researcher-guide/tracking-experiments",
+  "title": "Tracking Experiments",
+  "description": "Master the art of tracking, managing, and comparing your machine learning experiments.",
+  "source": "@site/docs/researcher-guide/tracking-experiments.md",
+  "sourceDirName": "researcher-guide",
+  "slug": "/researcher-guide/tracking-experiments",
+  "permalink": "/docs/researcher-guide/tracking-experiments",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/researcher-guide/tracking-experiments.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  }
+}

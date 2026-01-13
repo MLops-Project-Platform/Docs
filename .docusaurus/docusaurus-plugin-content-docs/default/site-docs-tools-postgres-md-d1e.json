@@ -1,0 +1,18 @@
+{
+  "id": "tools/postgres",
+  "title": "PostgreSQL",
+  "description": "What is PostgreSQL?",
+  "source": "@site/docs/tools/postgres.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/postgres",
+  "permalink": "/docs/tools/postgres",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/tools/postgres.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  }
+}

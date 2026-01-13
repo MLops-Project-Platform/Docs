@@ -1,0 +1,18 @@
+{
+  "id": "repositories/mlops-helm-charts",
+  "title": "mlops-helm-charts",
+  "description": "Repository: MLops-Project-Platform/mlops-helm-charts",
+  "source": "@site/docs/repositories/mlops-helm-charts.md",
+  "sourceDirName": "repositories",
+  "slug": "/repositories/mlops-helm-charts",
+  "permalink": "/docs/repositories/mlops-helm-charts",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/repositories/mlops-helm-charts.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  }
+}

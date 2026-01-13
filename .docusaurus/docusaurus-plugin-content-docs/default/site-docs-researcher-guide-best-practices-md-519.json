@@ -1,0 +1,18 @@
+{
+  "id": "researcher-guide/best-practices",
+  "title": "Best Practices",
+  "description": "Professional approaches to ML research and experimentation.",
+  "source": "@site/docs/researcher-guide/best-practices.md",
+  "sourceDirName": "researcher-guide",
+  "slug": "/researcher-guide/best-practices",
+  "permalink": "/docs/researcher-guide/best-practices",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/researcher-guide/best-practices.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  }
+}

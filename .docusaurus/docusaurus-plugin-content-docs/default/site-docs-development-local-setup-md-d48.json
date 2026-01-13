@@ -1,0 +1,18 @@
+{
+  "id": "development/local-setup",
+  "title": "Local Development Setup",
+  "description": "Set up a complete development environment for the MLOps Platform.",
+  "source": "@site/docs/development/local-setup.md",
+  "sourceDirName": "development",
+  "slug": "/development/local-setup",
+  "permalink": "/docs/development/local-setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/development/local-setup.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  }
+}

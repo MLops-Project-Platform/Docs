@@ -1,0 +1,18 @@
+{
+  "id": "researcher-guide/setup",
+  "title": "Setup Guide",
+  "description": "Get your development environment ready to run ML experiments with the MLOps Platform.",
+  "source": "@site/docs/researcher-guide/setup.md",
+  "sourceDirName": "researcher-guide",
+  "slug": "/researcher-guide/setup",
+  "permalink": "/docs/researcher-guide/setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/researcher-guide/setup.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  }
+}

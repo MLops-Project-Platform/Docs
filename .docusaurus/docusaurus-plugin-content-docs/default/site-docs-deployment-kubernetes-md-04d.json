@@ -1,0 +1,18 @@
+{
+  "id": "deployment/kubernetes",
+  "title": "Kubernetes Deployment",
+  "description": "Deploy the MLOps Platform documentation to Kubernetes.",
+  "source": "@site/docs/deployment/kubernetes.md",
+  "sourceDirName": "deployment",
+  "slug": "/deployment/kubernetes",
+  "permalink": "/docs/deployment/kubernetes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/deployment/kubernetes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  }
+}

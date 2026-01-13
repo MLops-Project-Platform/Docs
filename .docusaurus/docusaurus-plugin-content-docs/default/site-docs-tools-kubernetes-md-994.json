@@ -1,0 +1,18 @@
+{
+  "id": "tools/kubernetes",
+  "title": "Kubernetes",
+  "description": "What is Kubernetes?",
+  "source": "@site/docs/tools/kubernetes.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/kubernetes",
+  "permalink": "/docs/tools/kubernetes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/tools/kubernetes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  }
+}

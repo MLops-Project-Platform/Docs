@@ -1,0 +1,23 @@
+{
+  "id": "tools/mlflow",
+  "title": "MLflow",
+  "description": "What is MLflow?",
+  "source": "@site/docs/tools/mlflow.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/mlflow",
+  "permalink": "/docs/tools/mlflow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/tools/mlflow.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tools Overview",
+    "permalink": "/docs/tools/overview"
+  }
+}
