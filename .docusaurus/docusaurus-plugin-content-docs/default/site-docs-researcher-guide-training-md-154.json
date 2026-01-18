@@ -14,5 +14,14 @@
   "sidebarPosition": 3,
   "frontMatter": {
     "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setup Guide",
+    "permalink": "/docs/researcher-guide/setup"
+  },
+  "next": {
+    "title": "Tracking Experiments",
+    "permalink": "/docs/researcher-guide/tracking-experiments"
   }
 }

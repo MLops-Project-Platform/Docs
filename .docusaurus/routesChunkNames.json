@@ -1,165 +1,134 @@
 {
-  "/__docusaurus/debug-5ff": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/docs-6b8": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "aba21aa0"
     }
   },
-  "/__docusaurus/debug/config-5ba": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
+  "/docs-aef": {
+    "__comp": "a7bd4aaa",
+    "__props": "0058b4c6"
   },
-  "/__docusaurus/debug/content-a2b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
-  },
-  "/__docusaurus/debug/globalData-c3c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/metadata-156": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/registry-88c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/routes-000": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/docs-68d": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
-    "__context": {
-      "plugin": "plugin---docsaba-d7c"
-    }
-  },
-  "/docs-ec3": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---docs-005-788"
-  },
-  "/docs-bb2": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+  "/docs-981": {
+    "__comp": "a94703ab"
   },
   "/docs/architecture/components-123": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-architecture-componentsb-47-28d"
+    "__comp": "17896441",
+    "content": "b4745a75"
   },
   "/docs/architecture/data-flow-d38": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-architecture-data-flow-9-ba-3c1"
+    "__comp": "17896441",
+    "content": "9ba7a03a"
   },
   "/docs/architecture/overview-685": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-architecture-overview-0-b-1-a4c"
+    "__comp": "17896441",
+    "content": "0b1ac180"
   },
   "/docs/deployment/docker-bc6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-deployment-dockerff-8-1f0"
+    "__comp": "17896441",
+    "content": "ff8b1e34"
   },
   "/docs/deployment/kubernetes-3bf": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-deployment-kubernetes-04-d-e2c"
+    "__comp": "17896441",
+    "content": "04da809a"
   },
   "/docs/deployment/production-setup-e5f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-deployment-production-setupf-75-73c"
+    "__comp": "17896441",
+    "content": "f75266e8"
   },
-  "/docs/development/contributing-582": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-development-contributing-946-4f0"
+  "/docs/development/contributing-98b": {
+    "__comp": "17896441",
+    "content": "9463d0c6"
   },
-  "/docs/development/local-setup-cba": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-development-local-setupd-48-fd3"
+  "/docs/development/local-setup-7f8": {
+    "__comp": "17896441",
+    "content": "d4832529"
+  },
+  "/docs/development/mlops-workflow-532": {
+    "__comp": "17896441",
+    "content": "e7c0250b"
   },
   "/docs/getting-started/overview-3b4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-getting-started-overview-7-a-9-af0"
+    "__comp": "17896441",
+    "content": "7a96ca3d"
   },
   "/docs/getting-started/quick-start-09c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-getting-started-quick-start-588-94b"
+    "__comp": "17896441",
+    "content": "588bd741"
   },
   "/docs/repositories/mlops-helm-charts-bdc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-repositories-mlops-helm-charts-5-d-4-81e"
+    "__comp": "17896441",
+    "content": "5d437caf"
   },
   "/docs/repositories/mlops-platform-3c7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-repositories-mlops-platform-086-291"
+    "__comp": "17896441",
+    "content": "0866ed68"
   },
   "/docs/repositories/mlops-research-template-673": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-repositories-mlops-research-templateee-6-484"
+    "__comp": "17896441",
+    "content": "ee6ababd"
   },
   "/docs/repositories/overview-16f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-repositories-overview-021-a33"
+    "__comp": "17896441",
+    "content": "021699dd"
   },
-  "/docs/researcher-guide/best-practices-4af": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-researcher-guide-best-practices-519-5e5"
+  "/docs/researcher-guide/best-practices-316": {
+    "__comp": "17896441",
+    "content": "519f4531"
   },
-  "/docs/researcher-guide/overview-93d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-researcher-guide-overview-895-231"
+  "/docs/researcher-guide/overview-957": {
+    "__comp": "17896441",
+    "content": "8959db52"
   },
-  "/docs/researcher-guide/setup-4e4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-researcher-guide-setup-3-e-0-41f"
+  "/docs/researcher-guide/setup-70f": {
+    "__comp": "17896441",
+    "content": "3e02f3ca"
   },
-  "/docs/researcher-guide/tracking-experiments-d43": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-researcher-guide-tracking-experimentse-07-cc3"
+  "/docs/researcher-guide/tracking-experiments-557": {
+    "__comp": "17896441",
+    "content": "e0782c97"
   },
-  "/docs/researcher-guide/training-e0d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-researcher-guide-training-154-138"
+  "/docs/researcher-guide/training-3f2": {
+    "__comp": "17896441",
+    "content": "15451c38"
   },
-  "/docs/tools/docker-1b7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tools-docker-337-045"
+  "/docs/tools/databases-2d0": {
+    "__comp": "17896441",
+    "content": "2924a893"
   },
-  "/docs/tools/kubernetes-824": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tools-kubernetes-994-bbc"
+  "/docs/tools/docker-83a": {
+    "__comp": "17896441",
+    "content": "3375fef3"
   },
-  "/docs/tools/minio-c80": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tools-minioe-72-7c7"
+  "/docs/tools/kubernetes-6b6": {
+    "__comp": "17896441",
+    "content": "9942b7e7"
+  },
+  "/docs/tools/message-queues-89a": {
+    "__comp": "17896441",
+    "content": "fdf74fcf"
+  },
+  "/docs/tools/minio-1d1": {
+    "__comp": "17896441",
+    "content": "e72a72fe"
   },
   "/docs/tools/mlflow-a7c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tools-mlflow-973-661"
+    "__comp": "17896441",
+    "content": "973da09e"
   },
   "/docs/tools/overview-efb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tools-overviewab-1-66e"
+    "__comp": "17896441",
+    "content": "ab1884bd"
   },
-  "/docs/tools/postgres-e44": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tools-postgresd-1-e-1b4"
+  "/docs/tools/postgres-f58": {
+    "__comp": "17896441",
+    "content": "d1ef4f69"
   },
   "/-2e1": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---a-74-9d6"
+      "plugin": "a7456010"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "5e9f5e1a"
   }
 }

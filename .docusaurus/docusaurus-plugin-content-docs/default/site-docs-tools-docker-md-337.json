@@ -14,5 +14,14 @@
   "sidebarPosition": 5,
   "frontMatter": {
     "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MLflow",
+    "permalink": "/docs/tools/mlflow"
+  },
+  "next": {
+    "title": "Kubernetes",
+    "permalink": "/docs/tools/kubernetes"
   }
 }

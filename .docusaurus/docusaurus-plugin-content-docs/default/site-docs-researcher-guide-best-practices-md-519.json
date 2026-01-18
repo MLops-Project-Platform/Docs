@@ -14,5 +14,14 @@
   "sidebarPosition": 5,
   "frontMatter": {
     "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tracking Experiments",
+    "permalink": "/docs/researcher-guide/tracking-experiments"
+  },
+  "next": {
+    "title": "MLOps Workflow Guide",
+    "permalink": "/docs/development/mlops-workflow"
   }
 }

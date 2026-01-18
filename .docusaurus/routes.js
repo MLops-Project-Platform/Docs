@@ -3,51 +3,16 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
-    exact: true
-  },
-  {
     path: '/docs',
-    component: ComponentCreator('/docs', '68d'),
+    component: ComponentCreator('/docs', '6b8'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'ec3'),
+        component: ComponentCreator('/docs', 'aef'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'bb2'),
+            component: ComponentCreator('/docs', '981'),
             routes: [
               {
                 path: '/docs/architecture/components',
@@ -81,13 +46,21 @@ export default [
               },
               {
                 path: '/docs/development/contributing',
-                component: ComponentCreator('/docs/development/contributing', '582'),
-                exact: true
+                component: ComponentCreator('/docs/development/contributing', '98b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/development/local-setup',
-                component: ComponentCreator('/docs/development/local-setup', 'cba'),
-                exact: true
+                component: ComponentCreator('/docs/development/local-setup', '7f8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/development/mlops-workflow',
+                component: ComponentCreator('/docs/development/mlops-workflow', '532'),
+                exact: true,
+                sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/getting-started/overview',
@@ -125,43 +98,63 @@ export default [
               },
               {
                 path: '/docs/researcher-guide/best-practices',
-                component: ComponentCreator('/docs/researcher-guide/best-practices', '4af'),
-                exact: true
+                component: ComponentCreator('/docs/researcher-guide/best-practices', '316'),
+                exact: true,
+                sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/researcher-guide/overview',
-                component: ComponentCreator('/docs/researcher-guide/overview', '93d'),
-                exact: true
+                component: ComponentCreator('/docs/researcher-guide/overview', '957'),
+                exact: true,
+                sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/researcher-guide/setup',
-                component: ComponentCreator('/docs/researcher-guide/setup', '4e4'),
-                exact: true
+                component: ComponentCreator('/docs/researcher-guide/setup', '70f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/researcher-guide/tracking-experiments',
-                component: ComponentCreator('/docs/researcher-guide/tracking-experiments', 'd43'),
-                exact: true
+                component: ComponentCreator('/docs/researcher-guide/tracking-experiments', '557'),
+                exact: true,
+                sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/researcher-guide/training',
-                component: ComponentCreator('/docs/researcher-guide/training', 'e0d'),
-                exact: true
+                component: ComponentCreator('/docs/researcher-guide/training', '3f2'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/tools/databases',
+                component: ComponentCreator('/docs/tools/databases', '2d0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/tools/docker',
-                component: ComponentCreator('/docs/tools/docker', '1b7'),
-                exact: true
+                component: ComponentCreator('/docs/tools/docker', '83a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/tools/kubernetes',
-                component: ComponentCreator('/docs/tools/kubernetes', '824'),
-                exact: true
+                component: ComponentCreator('/docs/tools/kubernetes', '6b6'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/tools/message-queues',
+                component: ComponentCreator('/docs/tools/message-queues', '89a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/tools/minio',
-                component: ComponentCreator('/docs/tools/minio', 'c80'),
-                exact: true
+                component: ComponentCreator('/docs/tools/minio', '1d1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
               },
               {
                 path: '/docs/tools/mlflow',
@@ -177,8 +170,9 @@ export default [
               },
               {
                 path: '/docs/tools/postgres',
-                component: ComponentCreator('/docs/tools/postgres', 'e44'),
-                exact: true
+                component: ComponentCreator('/docs/tools/postgres', 'f58'),
+                exact: true,
+                sidebar: "tutorialSidebar"
               }
             ]
           }

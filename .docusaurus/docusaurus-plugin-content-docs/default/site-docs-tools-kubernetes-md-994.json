@@ -14,5 +14,14 @@
   "sidebarPosition": 6,
   "frontMatter": {
     "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Docker",
+    "permalink": "/docs/tools/docker"
+  },
+  "next": {
+    "title": "MinIO (S3 Storage)",
+    "permalink": "/docs/tools/minio"
   }
 }

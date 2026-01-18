@@ -1,0 +1,27 @@
+{
+  "id": "development/mlops-workflow",
+  "title": "MLOps Workflow Guide",
+  "description": "This guide explains how to work with the MLOps platform, including configuring models and deploying to different environments using Git-based workflows.",
+  "source": "@site/docs/development/mlops-workflow.md",
+  "sourceDirName": "development",
+  "slug": "/development/mlops-workflow",
+  "permalink": "/docs/development/mlops-workflow",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/development/mlops-workflow.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Best Practices",
+    "permalink": "/docs/researcher-guide/best-practices"
+  },
+  "next": {
+    "title": "Local Development Setup",
+    "permalink": "/docs/development/local-setup"
+  }
+}

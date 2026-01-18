@@ -14,5 +14,14 @@
   "sidebarPosition": 1,
   "frontMatter": {
     "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mlops-platform",
+    "permalink": "/docs/repositories/mlops-platform"
+  },
+  "next": {
+    "title": "Setup Guide",
+    "permalink": "/docs/researcher-guide/setup"
   }
 }

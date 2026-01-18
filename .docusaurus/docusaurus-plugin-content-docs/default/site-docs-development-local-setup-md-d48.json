@@ -14,5 +14,14 @@
   "sidebarPosition": 2,
   "frontMatter": {
     "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MLOps Workflow Guide",
+    "permalink": "/docs/development/mlops-workflow"
+  },
+  "next": {
+    "title": "Contributing",
+    "permalink": "/docs/development/contributing"
   }
 }

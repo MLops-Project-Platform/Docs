@@ -14,5 +14,14 @@
   "sidebarPosition": 1,
   "frontMatter": {
     "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Local Development Setup",
+    "permalink": "/docs/development/local-setup"
+  },
+  "next": {
+    "title": "Tools Overview",
+    "permalink": "/docs/tools/overview"
   }
 }

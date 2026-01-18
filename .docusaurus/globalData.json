@@ -36,11 +36,18 @@
             },
             {
               "id": "development/contributing",
-              "path": "/docs/development/contributing"
+              "path": "/docs/development/contributing",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "development/local-setup",
-              "path": "/docs/development/local-setup"
+              "path": "/docs/development/local-setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "development/mlops-workflow",
+              "path": "/docs/development/mlops-workflow",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "getting-started/overview",
@@ -72,35 +79,53 @@
             },
             {
               "id": "researcher-guide/best-practices",
-              "path": "/docs/researcher-guide/best-practices"
+              "path": "/docs/researcher-guide/best-practices",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "researcher-guide/overview",
-              "path": "/docs/researcher-guide/overview"
+              "path": "/docs/researcher-guide/overview",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "researcher-guide/setup",
-              "path": "/docs/researcher-guide/setup"
+              "path": "/docs/researcher-guide/setup",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "researcher-guide/tracking-experiments",
-              "path": "/docs/researcher-guide/tracking-experiments"
+              "path": "/docs/researcher-guide/tracking-experiments",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "researcher-guide/training",
-              "path": "/docs/researcher-guide/training"
+              "path": "/docs/researcher-guide/training",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/databases",
+              "path": "/docs/tools/databases",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "tools/docker",
-              "path": "/docs/tools/docker"
+              "path": "/docs/tools/docker",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "tools/kubernetes",
-              "path": "/docs/tools/kubernetes"
+              "path": "/docs/tools/kubernetes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/message-queues",
+              "path": "/docs/tools/message-queues",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "tools/minio",
-              "path": "/docs/tools/minio"
+              "path": "/docs/tools/minio",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "tools/mlflow",
@@ -114,7 +139,8 @@
             },
             {
               "id": "tools/postgres",
-              "path": "/docs/tools/postgres"
+              "path": "/docs/tools/postgres",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],

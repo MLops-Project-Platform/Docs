@@ -14,5 +14,14 @@
   "sidebarPosition": 4,
   "frontMatter": {
     "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Training Guide",
+    "permalink": "/docs/researcher-guide/training"
+  },
+  "next": {
+    "title": "Best Practices",
+    "permalink": "/docs/researcher-guide/best-practices"
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "tools/overview",
   "title": "Tools Overview",
-  "description": "The MLOps Platform integrates several industry-standard tools and technologies to provide a complete ML infrastructure solution.",
+  "description": "The MLOps Platform integrates several industry-standard tools and technologies to provide a complete ML infrastructure solution. This documentation covers machine learning tools, infrastructure components, data management systems, and communication layers.",
   "source": "@site/docs/tools/overview.md",
   "sourceDirName": "tools",
   "slug": "/tools/overview",
@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "mlops-platform",
-    "permalink": "/docs/repositories/mlops-platform"
+    "title": "Contributing",
+    "permalink": "/docs/development/contributing"
   },
   "next": {
     "title": "MLflow",

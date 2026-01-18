@@ -14,5 +14,14 @@
   "sidebarPosition": 3,
   "frontMatter": {
     "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MinIO (S3 Storage)",
+    "permalink": "/docs/tools/minio"
+  },
+  "next": {
+    "title": "Databases",
+    "permalink": "/docs/tools/databases"
   }
 }

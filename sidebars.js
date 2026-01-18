@@ -18,8 +18,71 @@ const sidebars = {
     'getting-started/quick-start',
     'repositories/overview',
     'repositories/mlops-platform',
-    'tools/overview',
-    'tools/mlflow',
+    {
+      type: 'category',
+      label: 'Researcher Guide',
+      collapsed: false,
+      items: [
+        'researcher-guide/overview',
+        'researcher-guide/setup',
+        'researcher-guide/training',
+        'researcher-guide/tracking-experiments',
+        'researcher-guide/best-practices',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Development',
+      collapsed: false,
+      items: [
+        'development/mlops-workflow',
+        'development/local-setup',
+        'development/contributing',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Tools & Infrastructure',
+      collapsed: false,
+      items: [
+        'tools/overview',
+        {
+          type: 'category',
+          label: 'Machine Learning Tools',
+          collapsed: true,
+          items: [
+            'tools/mlflow',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Infrastructure & Orchestration',
+          collapsed: true,
+          items: [
+            'tools/docker',
+            'tools/kubernetes',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Data Management',
+          collapsed: true,
+          items: [
+            'tools/minio',
+            'tools/postgres',
+            'tools/databases',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Message Queues & Event Streaming',
+          collapsed: true,
+          items: [
+            'tools/message-queues',
+          ],
+        },
+      ],
+    },
   ],
 };
 

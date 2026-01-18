@@ -1,0 +1,27 @@
+{
+  "id": "tools/databases",
+  "title": "Databases",
+  "description": "Overview",
+  "source": "@site/docs/tools/databases.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/databases",
+  "permalink": "/docs/tools/databases",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/tools/databases.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PostgreSQL",
+    "permalink": "/docs/tools/postgres"
+  },
+  "next": {
+    "title": "Message Queues and Event Management",
+    "permalink": "/docs/tools/message-queues"
+  }
+}

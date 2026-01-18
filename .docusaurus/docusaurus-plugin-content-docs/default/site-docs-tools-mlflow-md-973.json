@@ -19,5 +19,9 @@
   "previous": {
     "title": "Tools Overview",
     "permalink": "/docs/tools/overview"
+  },
+  "next": {
+    "title": "Docker",
+    "permalink": "/docs/tools/docker"
   }
 }
