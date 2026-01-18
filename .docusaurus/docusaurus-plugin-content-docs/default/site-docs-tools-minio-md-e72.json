@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Kubernetes",
-    "permalink": "/docs/tools/kubernetes"
+    "title": "NVIDIA GPU Scheduling",
+    "permalink": "/docs/tools/gpu-scheduling"
   },
   "next": {
-    "title": "PostgreSQL",
-    "permalink": "/docs/tools/postgres"
+    "title": "Database Overview",
+    "permalink": "/docs/tools/db-overview"
   }
 }

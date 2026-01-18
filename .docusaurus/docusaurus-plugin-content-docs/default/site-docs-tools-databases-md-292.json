@@ -14,14 +14,5 @@
   "sidebarPosition": 4,
   "frontMatter": {
     "sidebar_position": 4
-  },
-  "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "PostgreSQL",
-    "permalink": "/docs/tools/postgres"
-  },
-  "next": {
-    "title": "Message Queues and Event Management",
-    "permalink": "/docs/tools/message-queues"
   }
 }

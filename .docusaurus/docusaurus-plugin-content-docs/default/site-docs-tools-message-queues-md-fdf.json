@@ -17,7 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Databases",
-    "permalink": "/docs/tools/databases"
+    "title": "Prometheus",
+    "permalink": "/docs/tools/prometheus"
+  },
+  "next": {
+    "title": "Monitoring & Observability",
+    "permalink": "/docs/tools/monitoring"
   }
 }

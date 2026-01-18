@@ -1,0 +1,27 @@
+{
+  "id": "tools/memcached",
+  "title": "Memcached",
+  "description": "Overview",
+  "source": "@site/docs/tools/memcached.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/memcached",
+  "permalink": "/docs/tools/memcached",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/tools/memcached.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Redis",
+    "permalink": "/docs/tools/redis"
+  },
+  "next": {
+    "title": "InfluxDB",
+    "permalink": "/docs/tools/influxdb"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "tools/cicd",
+  "title": "CI/CD Pipelines",
+  "description": "Overview",
+  "source": "@site/docs/tools/cicd.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/cicd",
+  "permalink": "/docs/tools/cicd",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/tools/cicd.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Monitoring & Observability",
+    "permalink": "/docs/tools/monitoring"
+  }
+}

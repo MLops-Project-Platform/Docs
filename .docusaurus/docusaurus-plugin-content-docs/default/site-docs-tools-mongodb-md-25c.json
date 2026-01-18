@@ -1,0 +1,27 @@
+{
+  "id": "tools/mongodb",
+  "title": "MongoDB",
+  "description": "Overview",
+  "source": "@site/docs/tools/mongodb.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/mongodb",
+  "permalink": "/docs/tools/mongodb",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/tools/mongodb.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MySQL",
+    "permalink": "/docs/tools/mysql"
+  },
+  "next": {
+    "title": "Apache Cassandra",
+    "permalink": "/docs/tools/cassandra"
+  }
+}

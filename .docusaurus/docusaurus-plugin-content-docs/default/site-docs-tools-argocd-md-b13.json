@@ -1,0 +1,27 @@
+{
+  "id": "tools/argocd",
+  "title": "ArgoCD - GitOps for Kubernetes",
+  "description": "Overview",
+  "source": "@site/docs/tools/argocd.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/argocd",
+  "permalink": "/docs/tools/argocd",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/tools/argocd.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Helm Charts & Package Management",
+    "permalink": "/docs/tools/helm"
+  },
+  "next": {
+    "title": "NVIDIA GPU Scheduling",
+    "permalink": "/docs/tools/gpu-scheduling"
+  }
+}

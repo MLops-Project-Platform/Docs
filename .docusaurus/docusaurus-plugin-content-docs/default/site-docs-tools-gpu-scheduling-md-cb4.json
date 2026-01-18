@@ -1,0 +1,27 @@
+{
+  "id": "tools/gpu-scheduling",
+  "title": "NVIDIA GPU Scheduling",
+  "description": "Overview",
+  "source": "@site/docs/tools/gpu-scheduling.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/gpu-scheduling",
+  "permalink": "/docs/tools/gpu-scheduling",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/tools/gpu-scheduling.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ArgoCD - GitOps for Kubernetes",
+    "permalink": "/docs/tools/argocd"
+  },
+  "next": {
+    "title": "MinIO (S3 Storage)",
+    "permalink": "/docs/tools/minio"
+  }
+}

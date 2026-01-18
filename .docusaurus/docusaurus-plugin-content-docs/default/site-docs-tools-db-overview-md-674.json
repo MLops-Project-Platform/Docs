@@ -1,0 +1,27 @@
+{
+  "id": "tools/db-overview",
+  "title": "Database Overview",
+  "description": "Overview",
+  "source": "@site/docs/tools/db-overview.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/db-overview",
+  "permalink": "/docs/tools/db-overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/tools/db-overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MinIO (S3 Storage)",
+    "permalink": "/docs/tools/minio"
+  },
+  "next": {
+    "title": "PostgreSQL",
+    "permalink": "/docs/tools/postgres"
+  }
+}

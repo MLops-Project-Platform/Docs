@@ -1,0 +1,27 @@
+{
+  "id": "tools/cassandra",
+  "title": "Apache Cassandra",
+  "description": "Overview",
+  "source": "@site/docs/tools/cassandra.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/cassandra",
+  "permalink": "/docs/tools/cassandra",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/tools/cassandra.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MongoDB",
+    "permalink": "/docs/tools/mongodb"
+  },
+  "next": {
+    "title": "Amazon DynamoDB",
+    "permalink": "/docs/tools/dynamodb"
+  }
+}

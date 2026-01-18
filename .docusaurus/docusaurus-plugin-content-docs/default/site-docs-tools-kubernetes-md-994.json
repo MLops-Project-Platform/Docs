@@ -21,7 +21,7 @@
     "permalink": "/docs/tools/docker"
   },
   "next": {
-    "title": "MinIO (S3 Storage)",
-    "permalink": "/docs/tools/minio"
+    "title": "Helm Charts & Package Management",
+    "permalink": "/docs/tools/helm"
   }
 }

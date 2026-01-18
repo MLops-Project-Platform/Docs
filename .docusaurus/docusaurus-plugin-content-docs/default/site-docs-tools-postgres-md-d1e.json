@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "MinIO (S3 Storage)",
-    "permalink": "/docs/tools/minio"
+    "title": "Database Overview",
+    "permalink": "/docs/tools/db-overview"
   },
   "next": {
-    "title": "Databases",
-    "permalink": "/docs/tools/databases"
+    "title": "MySQL",
+    "permalink": "/docs/tools/mysql"
   }
 }

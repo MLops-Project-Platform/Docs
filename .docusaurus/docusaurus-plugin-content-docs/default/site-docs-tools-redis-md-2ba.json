@@ -1,0 +1,27 @@
+{
+  "id": "tools/redis",
+  "title": "Redis",
+  "description": "Overview",
+  "source": "@site/docs/tools/redis.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/redis",
+  "permalink": "/docs/tools/redis",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/tools/redis.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Amazon DynamoDB",
+    "permalink": "/docs/tools/dynamodb"
+  },
+  "next": {
+    "title": "Memcached",
+    "permalink": "/docs/tools/memcached"
+  }
+}

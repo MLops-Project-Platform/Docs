@@ -1,0 +1,27 @@
+{
+  "id": "tools/helm",
+  "title": "Helm Charts & Package Management",
+  "description": "Overview",
+  "source": "@site/docs/tools/helm.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/helm",
+  "permalink": "/docs/tools/helm",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/tools/helm.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Kubernetes",
+    "permalink": "/docs/tools/kubernetes"
+  },
+  "next": {
+    "title": "ArgoCD - GitOps for Kubernetes",
+    "permalink": "/docs/tools/argocd"
+  }
+}

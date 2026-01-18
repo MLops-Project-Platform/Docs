@@ -103,8 +103,27 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "tools/argocd",
+              "path": "/docs/tools/argocd",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/cassandra",
+              "path": "/docs/tools/cassandra",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/cicd",
+              "path": "/docs/tools/cicd",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "tools/databases",
-              "path": "/docs/tools/databases",
+              "path": "/docs/tools/databases"
+            },
+            {
+              "id": "tools/db-overview",
+              "path": "/docs/tools/db-overview",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -113,8 +132,33 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "tools/dynamodb",
+              "path": "/docs/tools/dynamodb",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/gpu-scheduling",
+              "path": "/docs/tools/gpu-scheduling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/helm",
+              "path": "/docs/tools/helm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/influxdb",
+              "path": "/docs/tools/influxdb",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "tools/kubernetes",
               "path": "/docs/tools/kubernetes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/memcached",
+              "path": "/docs/tools/memcached",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -133,6 +177,21 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "tools/mongodb",
+              "path": "/docs/tools/mongodb",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/monitoring",
+              "path": "/docs/tools/monitoring",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/mysql",
+              "path": "/docs/tools/mysql",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "tools/overview",
               "path": "/docs/tools/overview",
               "sidebar": "tutorialSidebar"
@@ -140,6 +199,16 @@
             {
               "id": "tools/postgres",
               "path": "/docs/tools/postgres",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/prometheus",
+              "path": "/docs/tools/prometheus",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools/redis",
+              "path": "/docs/tools/redis",
               "sidebar": "tutorialSidebar"
             }
           ],

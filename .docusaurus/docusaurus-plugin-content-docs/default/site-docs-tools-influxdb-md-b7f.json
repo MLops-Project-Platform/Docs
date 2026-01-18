@@ -1,0 +1,27 @@
+{
+  "id": "tools/influxdb",
+  "title": "InfluxDB",
+  "description": "Overview",
+  "source": "@site/docs/tools/influxdb.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/influxdb",
+  "permalink": "/docs/tools/influxdb",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/tools/influxdb.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Memcached",
+    "permalink": "/docs/tools/memcached"
+  },
+  "next": {
+    "title": "Prometheus",
+    "permalink": "/docs/tools/prometheus"
+  }
+}

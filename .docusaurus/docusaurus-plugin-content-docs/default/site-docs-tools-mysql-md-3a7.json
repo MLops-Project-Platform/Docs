@@ -1,0 +1,27 @@
+{
+  "id": "tools/mysql",
+  "title": "MySQL",
+  "description": "Overview",
+  "source": "@site/docs/tools/mysql.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/mysql",
+  "permalink": "/docs/tools/mysql",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/tools/mysql.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PostgreSQL",
+    "permalink": "/docs/tools/postgres"
+  },
+  "next": {
+    "title": "MongoDB",
+    "permalink": "/docs/tools/mongodb"
+  }
+}

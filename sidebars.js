@@ -61,16 +61,69 @@ const sidebars = {
           items: [
             'tools/docker',
             'tools/kubernetes',
+            'tools/helm',
+            'tools/argocd',
           ],
         },
         {
           type: 'category',
-          label: 'Data Management',
+          label: 'GPU Scheduling',
+          collapsed: true,
+          items: [
+            'tools/gpu-scheduling',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Object Storage',
           collapsed: true,
           items: [
             'tools/minio',
-            'tools/postgres',
-            'tools/databases',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Databases',
+          collapsed: true,
+          items: [
+            'tools/db-overview',
+            {
+              type: 'category',
+              label: 'SQL Databases',
+              collapsed: true,
+              items: [
+                'tools/postgres',
+                'tools/mysql',
+              ],
+            },
+            {
+              type: 'category',
+              label: 'NoSQL Databases',
+              collapsed: true,
+              items: [
+                'tools/mongodb',
+                'tools/cassandra',
+                'tools/dynamodb',
+              ],
+            },
+            {
+              type: 'category',
+              label: 'Caching Layer',
+              collapsed: true,
+              items: [
+                'tools/redis',
+                'tools/memcached',
+              ],
+            },
+            {
+              type: 'category',
+              label: 'Time-Series Databases',
+              collapsed: true,
+              items: [
+                'tools/influxdb',
+                'tools/prometheus',
+              ],
+            },
           ],
         },
         {
@@ -79,6 +132,22 @@ const sidebars = {
           collapsed: true,
           items: [
             'tools/message-queues',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Monitoring & Observability',
+          collapsed: true,
+          items: [
+            'tools/monitoring',
+          ],
+        },
+        {
+          type: 'category',
+          label: 'CI/CD Pipelines',
+          collapsed: true,
+          items: [
+            'tools/cicd',
           ],
         },
       ],

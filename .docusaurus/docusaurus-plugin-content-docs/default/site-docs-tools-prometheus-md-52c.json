@@ -1,0 +1,27 @@
+{
+  "id": "tools/prometheus",
+  "title": "Prometheus",
+  "description": "Overview",
+  "source": "@site/docs/tools/prometheus.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/prometheus",
+  "permalink": "/docs/tools/prometheus",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/tools/prometheus.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "InfluxDB",
+    "permalink": "/docs/tools/influxdb"
+  },
+  "next": {
+    "title": "Message Queues and Event Management",
+    "permalink": "/docs/tools/message-queues"
+  }
+}

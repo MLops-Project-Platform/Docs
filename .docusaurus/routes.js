@@ -4,15 +4,15 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '6b8'),
+    component: ComponentCreator('/docs', '36f'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'aef'),
+        component: ComponentCreator('/docs', '07a'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '981'),
+            component: ComponentCreator('/docs', 'd9f'),
             routes: [
               {
                 path: '/docs/architecture/components',
@@ -127,8 +127,31 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/tools/argocd',
+                component: ComponentCreator('/docs/tools/argocd', '75e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/tools/cassandra',
+                component: ComponentCreator('/docs/tools/cassandra', '05a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/tools/cicd',
+                component: ComponentCreator('/docs/tools/cicd', 'e47'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/tools/databases',
-                component: ComponentCreator('/docs/tools/databases', '2d0'),
+                component: ComponentCreator('/docs/tools/databases', 'b2b'),
+                exact: true
+              },
+              {
+                path: '/docs/tools/db-overview',
+                component: ComponentCreator('/docs/tools/db-overview', '231'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -139,8 +162,38 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/tools/dynamodb',
+                component: ComponentCreator('/docs/tools/dynamodb', '033'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/tools/gpu-scheduling',
+                component: ComponentCreator('/docs/tools/gpu-scheduling', 'e8d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/tools/helm',
+                component: ComponentCreator('/docs/tools/helm', 'a79'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/tools/influxdb',
+                component: ComponentCreator('/docs/tools/influxdb', 'f2d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/tools/kubernetes',
                 component: ComponentCreator('/docs/tools/kubernetes', '6b6'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/tools/memcached',
+                component: ComponentCreator('/docs/tools/memcached', '83f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -163,6 +216,24 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/docs/tools/mongodb',
+                component: ComponentCreator('/docs/tools/mongodb', '01a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/tools/monitoring',
+                component: ComponentCreator('/docs/tools/monitoring', 'ece'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/tools/mysql',
+                component: ComponentCreator('/docs/tools/mysql', '856'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/docs/tools/overview',
                 component: ComponentCreator('/docs/tools/overview', 'efb'),
                 exact: true,
@@ -171,6 +242,18 @@ export default [
               {
                 path: '/docs/tools/postgres',
                 component: ComponentCreator('/docs/tools/postgres', 'f58'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/tools/prometheus',
+                component: ComponentCreator('/docs/tools/prometheus', '8e3'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/tools/redis',
+                component: ComponentCreator('/docs/tools/redis', 'd33'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

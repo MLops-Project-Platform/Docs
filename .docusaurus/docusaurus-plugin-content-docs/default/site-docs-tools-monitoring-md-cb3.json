@@ -1,0 +1,27 @@
+{
+  "id": "tools/monitoring",
+  "title": "Monitoring & Observability",
+  "description": "Overview",
+  "source": "@site/docs/tools/monitoring.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/monitoring",
+  "permalink": "/docs/tools/monitoring",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/tools/monitoring.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Message Queues and Event Management",
+    "permalink": "/docs/tools/message-queues"
+  },
+  "next": {
+    "title": "CI/CD Pipelines",
+    "permalink": "/docs/tools/cicd"
+  }
+}

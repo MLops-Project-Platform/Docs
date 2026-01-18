@@ -1,0 +1,27 @@
+{
+  "id": "tools/dynamodb",
+  "title": "Amazon DynamoDB",
+  "description": "Overview",
+  "source": "@site/docs/tools/dynamodb.md",
+  "sourceDirName": "tools",
+  "slug": "/tools/dynamodb",
+  "permalink": "/docs/tools/dynamodb",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/MLops-Project-Platform/documentation/tree/main/docs/tools/dynamodb.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Apache Cassandra",
+    "permalink": "/docs/tools/cassandra"
+  },
+  "next": {
+    "title": "Redis",
+    "permalink": "/docs/tools/redis"
+  }
+}
